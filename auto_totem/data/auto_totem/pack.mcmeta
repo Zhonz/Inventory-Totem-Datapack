@@ -1,6 +1,0 @@
-{
-  "pack": {
-    "pack_format": 101.1,
-    "description": "Auto-activates Totem of Undying from inventory when player dies"
-  }
-}

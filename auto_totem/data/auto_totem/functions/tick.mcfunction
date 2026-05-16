@@ -1,1 +1,0 @@
-execute as @a[scores={died=1..}] at @s run function auto_totem:activate_totem
